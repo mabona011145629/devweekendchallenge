@@ -1,0 +1,42 @@
+{
+  "name": "🌸 Petal - Your Daily Companion",
+  "short_name": "Petal",
+  "description": "Your daily companion for growth and self-love. Track good things, lessons learned, and make promises to yourself.",
+  "start_url": "https://mabona.firstsuninvestment.com/devweekendchallenge/index.php",
+  "scope": "https://mabona.firstsuninvestment.com/devweekendchallenge/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#e91e63",
+  "background_color": "#fff5f9",
+  "categories": ["lifestyle", "productivity", "health", "self-improvement"],
+  "icons": [
+    {
+      "src": "https://mabona.firstsuninvestment.com/devweekendchallenge/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://mabona.firstsuninvestment.com/devweekendchallenge/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "Dashboard",
+      "short_name": "Home",
+      "description": "Go to your dashboard",
+      "url": "https://mabona.firstsuninvestment.com/devweekendchallenge/dashboard.php",
+      "icons": [
+        {
+          "src": "https://mabona.firstsuninvestment.com/devweekendchallenge/icons/icon-192.svg",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}
